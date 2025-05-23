@@ -1,4 +1,4 @@
-# bsuc25
+# R-programming practice
 <h1 align="center">Hi 👋, I'm Bhavya Sharma</h1>
 <h3 align="center">Public Policy Professional bridging policy, strategy and AI</h3>
 
